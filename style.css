@@ -20,16 +20,40 @@
     
 }
 
-.memes{
-    width: 300px;
+.memes1{
+    width: 350px;
     height: 350px;
     border: 1px solid black;
     border-radius: 10px;
     background-image: url(img/мем\ 1.jpg);
+    background-size: cover;
    
 
 }
 
+
+.memes2{
+    width: 350px;
+    height: 350px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-image: url(img/мем\ 2.jpg);
+    background-size: cover;
+   
+
+}
+
+
+.memes3{
+    width: 350px;
+    height: 350px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-image: url(img/мем\ 3.jpg);
+    background-size: cover;
+   
+
+}
 
 .conteniar{
     width: 1140px;
