@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    height: 200px;
+    background-color: cyan;
+    display: flex;
+}
+
+.logo{
+    width: 250px;
+    height: 150px;
+    background-color: cyan;
+    margin-top:  50px;
+    margin-left: 700px;
+    text-align: center;
+   
+    
+}
+
+.memes{
+    width: 300px;
+    height: 350px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-image: url(img/мем\ 1.jpg);
+   
+
+}
+
+
+.conteniar{
+    width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+
+.content
+{
+    margin: 100px 0;
+}
+
+
+
+
+
+
+.footer{
+    height: 200px;
+    background-color: cyan;
+    display: flex;
+}
