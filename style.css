@@ -109,5 +109,20 @@
 
 a {
     text-decoration: none;
+    
 }
-
+.title{
+    margin-bottom: 20px;
+    color: #000;
+}
+html {
+    font-size: 15px; 
+    font-family: 'Roboto', sans-serif;
+   }
+   .paragraph{
+    text-align: center;
+    font-weight: bold;
+   }
+   .bg{
+    background-color: black;
+   }
