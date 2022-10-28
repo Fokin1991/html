@@ -10,11 +10,24 @@
 rel="stylesheet" type='text/css'>
 </head>
 <script language="JavaScript">
-    let name = prompt("Как вас зовут?")
+    
     function Username() 
-    {
-        let message = 'Здраствуйте, ' + name;
-        alert(message);
+    {   
+       let name=prompt("Как вас зовут?");
+       
+       if(name=="" || name==null)
+       {
+        alert("Пожалуйста введите  свое имя");
+        
+       }
+       else
+       {
+        
+        alert("Здраствуйте " + name);
+
+       }
+        
+      
     }
        Username(); 
 </script>
